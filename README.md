@@ -1,6 +1,4 @@
-WEEK 9: PORTFOLIO MANAGEMENT AND
-
-OPTIMIZATION
+WEEK 9: PORTFOLIO MANAGEMENT AND OPTIMIZATION
 
 Comprehensive Engineering Guideline & Implementation Code
 

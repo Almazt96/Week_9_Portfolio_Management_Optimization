@@ -4,7 +4,7 @@ import numpy as np
 import yfinance as yf
 def download_and_clean_data(tickers, start_date, end_date):
     print(f"Extracting historical data for: {tickers}")
-    raw_data = yf.download(tickers, start=start_date, end=end_date)["Adj Close"]
+    raw_data = yf.download(tickers, start=start_date, end=end_date)["Close"]
     # Handle missing values robustly
     cleaned_data = raw_data.ffill().bfill()
     # Calculate simple and log returns
