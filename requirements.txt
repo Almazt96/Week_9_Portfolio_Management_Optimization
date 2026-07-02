@@ -4,12 +4,10 @@ statsmodels-0.14.6
 pygments<3.0.0,>=2.13.0
 mdurl~=0.1
 yfinance
-python
 pandas
 numpy
 matplotlib
 seaborn
-adfuller
 pmdarima 
 tensorflow 
 scikit-learn
