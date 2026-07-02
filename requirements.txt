@@ -8,7 +8,7 @@ pandas
 numpy
 matplotlib
 seaborn
-# adfuller
 pmdarima 
 tensorflow 
 scikit-learn
+PyPortfolioOpt
